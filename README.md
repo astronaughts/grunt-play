@@ -16,7 +16,7 @@ grunt.loadNpmTasks('grunt-play');
 ## The "play" task
 
 ### Overview
-In your project's Gruntfile, add a section named `tishadow` to the data object passed into `grunt.initConfig()`.
+In your project's Gruntfile, add a section named `play` to the data object passed into `grunt.initConfig()`.
 
 ```js
 grunt.initConfig({
