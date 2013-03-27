@@ -20,23 +20,6 @@ In your project's Gruntfile, add a section named `tishadow` to the data object p
 
 ```js
 grunt.initConfig({
-  tishadow: {
-    options: {
-      // Task-specific options go here.
-    },
-    command: {
-      // Target-specific commands go here.
-    },
-  },
-})
-```
-
-### Usage Examples
-
-#### Example Task
-
-```js
-grunt.initConfig({
     play: {
       fanfare: {
         file: './sounds/fanfare.mp3'
@@ -44,6 +27,8 @@ grunt.initConfig({
     }
 })
 ```
+
+### Usage Examples
 
 #### Example Gruntfile
 
