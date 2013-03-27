@@ -1,0 +1,35 @@
+{
+  "name": "grunt-play",
+  "version": "0.0.1",
+  "description": "play sound with grunt",
+  "main": "grunt.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/astronaughts/grunt-play.git"
+  },
+  "dependencies": {
+    "play": "*"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.2.0",
+    "grunt-contrib-watch": "~0.3.1"
+  },
+  "keywords": [
+    "grunt.js",
+    "sound",
+    "music",
+    "build",
+    "gruntplugin"
+  ],
+  "author": {
+    "name": "astronaughts"
+  },
+  "license": "MIT"
+}
