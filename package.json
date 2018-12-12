@@ -14,7 +14,8 @@
     "url": "https://github.com/astronaughts/grunt-play.git"
   },
   "dependencies": {
-    "play": "*"
+    "fs-utils": "^0.7.0",
+    "play-sound": "*"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
